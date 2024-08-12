@@ -1,0 +1,9 @@
+.Bg{
+    background-image:url("./Task1-Images/Bg.jpg");
+}
+.Container{
+    background-color:cyan;
+    width:500px;
+    height:450px;
+    padding-top:50px;
+}
